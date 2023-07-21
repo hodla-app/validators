@@ -13,5 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Install deps
+        run: npm ci
       - name: Validate JSON
         run: npm test
