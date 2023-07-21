@@ -4,8 +4,8 @@
     "slug": { "type": "string" },
     "name": { "type": "string" },
     "address": { "type": "string" },
-    "discription": { "type": "string" }
+    "description": { "type": "string" }
   },
-  "required": ["slug", "name", "address", "discription"],
+  "required": ["slug", "name", "address", "description"],
   "additionalProperties": false
 }
