@@ -13,5 +13,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      name: Validate JSON
-        - run: npm test
+      - name: Validate JSON
+        run: npm test
