@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "slug": { "type": "string" },
+    "name": { "type": "string" },
+    "address": { "type": "string" },
+    "discription": { "type": "string" }
+  },
+  "required": ["slug", "name", "address", "discription"],
+  "additionalProperties": false
+}
