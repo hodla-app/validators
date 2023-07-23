@@ -1,7 +1,7 @@
 {
 	"name": "exampleValidator",
 	"description": "We are the best validator in the world",
-	"security - contact": "example@gmail.com",
+	"securityContact": "example@gmail.com",
 	"website": "https://example.xyz",
 	"discord": "discord_link",
 	"medium": "medium_link",
