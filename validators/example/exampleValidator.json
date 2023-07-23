@@ -1,0 +1,17 @@
+{
+	"name": "exampleValidator",
+	"description": "We are the best validator in the world",
+	"security - contact": "example@gmail.com",
+	"website": "https://example.xyz",
+	"discord": "discord_link",
+	"medium": "medium_link",
+	"twitter": "twitter_link",
+	"github": "github_link",
+	"networks": [{
+			"solana": "9EoeJJF5YrdKK5m9K1BoxYprVDx1xQj4dRWoLD7example"
+		},
+		{
+			"cosmoshub": "cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8example"
+		}
+	]
+}
