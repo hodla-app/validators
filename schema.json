@@ -1,11 +1,29 @@
 {
   "type": "object",
   "properties": {
-    "slug": { "type": "string" },
     "name": { "type": "string" },
-    "address": { "type": "string" },
-    "description": { "type": "string" }
+    "description": { "type": "string" },
+    "securityContact": { "type": "string" },
+    "discord": { "type": "string" },
+    "medium": { "type": "string" },
+    "twitter": { "type": "string" },
+    "github": { "type": "string" },
+    "website": { "type": "string" },
+    "networks": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "solana": { "type": "string" },
+          "cosmos": { "type": "string" }
+        },
+        "maxProperties": 1,
+        "minProperties": 1,
+        "additionalProperties": false
+      }
+    }
   },
-  "required": ["slug", "name", "address", "description"],
+  "required": ["name", "description", "networks"],
   "additionalProperties": false
 }
