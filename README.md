@@ -6,7 +6,7 @@ After that, all you gotta do is make a PR in this repository, and voilà, we'll 
 
 Creating your space is pretty easy:
 1. Head to the "validators" folder and create a new folder with your validator name. Easy peasy! Let's say your folder name is "exampleValidator" (yep, it's already there for you to check out), then your link will be _hodla.org/examplevalidator_.
-2. Inside the folder, add a JSON file (with optional naming, but the folder should only contain one JSON file). You can see an example of the format [here](https://github.com/hodla-app/validators/blob/main/validators/exampleValidator/exampleValidator.json). Here are some tips:
+2. Inside the folder, add a JSON file named _config.json_. You can see an example of the format [here](https://github.com/hodla-app/validators/blob/main/validators/exampleValidator/config.json). Here are some tips:
 - Required fields: "name" and "networks" (gotta have at least one element in the networks array). The remaining fields are optional, but if you want a higher conversion rate into staked assets, it's recommended to provide more information!
 - Keep your validator name short, think mobile-friendly.
 - Describe your validator briefly and snappily; long descriptions can be a bummer on mobile phones.
