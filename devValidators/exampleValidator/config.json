@@ -1,0 +1,18 @@
+{
+  "name": "exampleValidator",
+  "description": "We are the best validator in the world",
+  "securityContact": "example@gmail.com",
+  "website": "https://example.com/",
+  "discord": "https://discord.com/",
+  "medium": "https://discord.com/",
+  "twitter": "https://twitter.com/",
+  "github": "https://github.com/",
+  "networks": [
+    {
+      "solana": "7AETLyAGJWjp6AWzZqZcP362yv5LQ3nLEdwnXNjdNwwF"
+    },
+    {
+      "cosmos": "cosmosvaloper1qghthrgaz8c0rx7w8nluhg9m00c8dtuyq6euwd"
+    }
+  ]
+}

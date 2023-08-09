@@ -4,7 +4,7 @@
   "description": "Hodla's partner validators list",
   "main": "index.js",
   "scripts": {
-    "test": "ajv -s ./schema.json -d './validators/**/*.json'"
+    "test": "ajv -s ./schema.json -d './validators/**/*.json' && ajv -s ./schema.json -d './devValidators/**/*.json'"
   },
   "repository": {
     "type": "git",

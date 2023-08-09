@@ -1,0 +1,18 @@
+{
+  "name": "testSuperVal",
+  "description": "namba one",
+  "securityContact": "test@gmail.com",
+  "website": "https://test.com/",
+  "discord": "https://test.com/",
+  "medium": "https://test.com/",
+  "twitter": "https://test.com/",
+  "github": "https://test.com/",
+  "networks": [
+    {
+      "solana": "3nA5h4nmfDd4VJUvpD4nnU6VY5fVbRVo6pnvVzR5QCKn"
+    },
+    {
+      "cosmos": "cosmosvaloper1qtxec3ggeuwnca9mmngw7vf6ctw54cppey02fs"
+    }
+  ]
+}
