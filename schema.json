@@ -16,7 +16,8 @@
         "type": "object",
         "properties": {
           "solana": { "type": "string" },
-          "cosmos": { "type": "string" }
+          "cosmos": { "type": "string" },
+          "osmosis": { "type": "string" }
         },
         "maxProperties": 1,
         "minProperties": 1,
