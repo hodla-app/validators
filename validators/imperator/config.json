@@ -1,0 +1,15 @@
+{
+  "name": "Imperator.co",
+  "description": "100% refund on downtime slashing, leading PoS validator & relayer",
+  "securityContact": "contact@imperator.co",
+  "website": "https://imperator.co",
+  "discord": "https://discord.gg/zU4xERJw",
+  "medium": "https://medium.com/imperator-guide",
+  "twitter": "https://twitter.com/imperator_co",
+  "github": "https://github.com/imperator-co",
+  "networks": [
+    {
+      "cosmos": "cosmosvaloper1vvwtk805lxehwle9l4yudmq6mn0g32px9xtkhc"
+    }
+  ]
+}
