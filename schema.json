@@ -17,7 +17,9 @@
         "properties": {
           "solana": { "type": "string" },
           "cosmos": { "type": "string" },
-          "osmosis": { "type": "string" }
+          "osmosis": { "type": "string" },
+          "akash": { "type": "string" },
+          "archway": { "type": "string" }
         },
         "maxProperties": 1,
         "minProperties": 1,
