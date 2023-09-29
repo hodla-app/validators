@@ -1,0 +1,27 @@
+{
+  "name": "POSTHUMAN∞DVS",
+  "description": "100% refund in case of slashing ⚛️ ME∞WE 🤲 Part of the profits goes to charity",
+  "securityContact": "validator@posthuman.digital",
+  "website": "https://posthuman.digital/",
+  "discord": "https://discord.gg/rbPxm5dNPj/",
+  "medium": "https://antropocosmist.medium.com/",
+  "twitter": "https://twitter.com/POSTHUMAN_DVS/",
+  "github": "https://github.com/Validator-POSTHUMAN",
+  "networks": [
+    {
+      "solana": "F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR"
+    },
+    {
+      "cosmos": "cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv"
+    },
+    {
+      "akash": "akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk"
+    },
+    {
+      "osmosis": "osmovaloper1e8238v24qccht9mqc2w0r4luq462yxttfpaeam"
+    },
+    {
+      "archway": "archwayvaloper1jy9kqql29lefyddmha9xla39qwqv8zxdzep27p"
+    }
+  ]
+}
