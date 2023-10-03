@@ -6,6 +6,7 @@
     "securityContact": { "type": "string" },
     "discord": { "type": "string" },
     "medium": { "type": "string" },
+    "substack": { "type": "string" },
     "twitter": { "type": "string" },
     "github": { "type": "string" },
     "website": { "type": "string" },
