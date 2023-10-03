@@ -1,0 +1,15 @@
+{
+    "name": "SolanaHub",
+    "description": "The next Onboarding platform on Solana",
+    "securityContact": "hello@solanahub.hub",
+    "website": "https://www.solanahub.app",
+    "discord": "https://discord.com/invite/5UcSMtCgxH",
+    "medium": "https://blog.solanahub.app",
+    "twitter": "https://twitter.com/SolanaHubApp",
+    "github": "https://github.com/avaulto/solanahub",
+    "networks": [
+      {
+        "solana": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh"
+      }
+    ]
+  }
