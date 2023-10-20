@@ -20,7 +20,14 @@
           "cosmos": { "type": "string" },
           "osmosis": { "type": "string" },
           "akash": { "type": "string" },
-          "archway": { "type": "string" }
+          "archway": { "type": "string" },
+          "axelar": { "type": "string" },
+          "stargaze": { "type": "string" },
+          "sommelier": { "type": "string" },
+          "secret": { "type": "string" },
+          "persistence": { "type": "string" },
+          "omniflixhub": { "type": "string" },
+          "fetchhub": { "type": "string" }
         },
         "maxProperties": 1,
         "minProperties": 1,
