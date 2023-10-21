@@ -12,7 +12,13 @@
       "solana": "F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR"
     },
     {
-      "cosmos": "cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv"
+      "solana-dev": "F1emDGY23U6YpJj4H4af2CHcHUmiDGgAWs2xvWYZHWdR"
+    },
+    {
+      "cosmoshub": "cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv"
+    },
+    {
+      "cosmoshub-dev": "cosmosvaloper157v7tczs40axfgejp2m43kwuzqe0wsy0rv8puv"
     },
     {
       "akash": "akashvaloper1kudft84reamryp3yyg804202wmc070p9fm3fhk"
