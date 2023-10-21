@@ -17,7 +17,9 @@
         "type": "object",
         "properties": {
           "solana": { "type": "string" },
-          "cosmos": { "type": "string" },
+          "solana-dev": { "type": "string" },
+          "cosmoshub": { "type": "string" },
+          "cosmoshub-dev": { "type": "string" },
           "osmosis": { "type": "string" },
           "akash": { "type": "string" },
           "archway": { "type": "string" },
