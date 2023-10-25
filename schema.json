@@ -29,7 +29,8 @@
           "secret": { "type": "string" },
           "persistence": { "type": "string" },
           "omniflixhub": { "type": "string" },
-          "fetchhub": { "type": "string" }
+          "fetchhub": { "type": "string" },
+          "comdex": { "type": "string" }
         },
         "maxProperties": 1,
         "minProperties": 1,
