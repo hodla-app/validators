@@ -30,7 +30,9 @@
           "persistence": { "type": "string" },
           "omniflixhub": { "type": "string" },
           "fetchhub": { "type": "string" },
-          "comdex": { "type": "string" }
+          "comdex": { "type": "string" },
+          "dydxprotocol": { "type": "string" },
+          "celestia": { "type": "string" }
         },
         "maxProperties": 1,
         "minProperties": 1,
