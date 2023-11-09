@@ -1,0 +1,14 @@
+{
+    "name": "web34ever",
+    "description": "Infrastructure Validator & Dedicated Contributor ₿ 🇺🇦⚔️ 🛡 Slash Protected",
+    "securityContact": "@web34ever",
+    "website": "https://web3validator.info",
+    "twitter": "https://twitter.com/web34ever",
+    "telegram": "https://t.me/web34ever",
+    "github": "https://github.com/web3validator/web34ever-identity/blob/main/web34ever-self-identity.md",
+    "networks": [
+      {
+        "sommelier": "sommvaloper1ktla4k293jqxc94rjrlcfslca4vd4gjejgvlua"
+      }
+    ]
+  }
