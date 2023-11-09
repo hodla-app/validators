@@ -7,6 +7,7 @@
     "discord": { "type": "string" },
     "medium": { "type": "string" },
     "substack": { "type": "string" },
+    "telegram": { "type": "string" },
     "twitter": { "type": "string" },
     "github": { "type": "string" },
     "website": { "type": "string" },
