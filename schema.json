@@ -33,7 +33,8 @@
           "fetchhub": { "type": "string" },
           "comdex": { "type": "string" },
           "dydxprotocol": { "type": "string" },
-          "celestia": { "type": "string" }
+          "celestia": { "type": "string" },
+          "stride": { "type": "string" }
         },
         "maxProperties": 1,
         "minProperties": 1,
