@@ -3,13 +3,22 @@
   "description": "We are validators!",
   "securityContact": "info@colossus.digital",
   "website": "https://colossus.digital",
-  "discord": "https://discord.gg/yhBvbpBM",
-  "medium": "https://medium.com/@colossus.digital",
+  "discord": "https://discord.com/invite/FtvxExE3Dz",
+  "substack": "https://colossusdigital.substack.com/",
   "twitter": "https://twitter.com/ColossusItaly",
   "github": "https://github.com/colossus-digital",
   "networks": [
     {
       "cosmoshub": "cosmosvaloper18s3k8dt73e28rraqk70u9xwtv9wlav83n5mqjx"
+    },
+    {
+      "solana": "8F1yhZvTwrFq5SqJ5PH2VLRRwULUGYHju84FjMtDbJPJ"
+    },
+    {
+      "secret": "secretvaloper1p7hzp7y50l9f7jl3yv6cdd95a3hc2dfrqfncpt"
+    },
+    {
+      "stride": "stridevaloper18s3k8dt73e28rraqk70u9xwtv9wlav83k7t4xu"
     }
   ]
 }
