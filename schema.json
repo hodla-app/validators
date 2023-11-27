@@ -34,7 +34,10 @@
           "comdex": { "type": "string" },
           "dydxprotocol": { "type": "string" },
           "celestia": { "type": "string" },
-          "stride": { "type": "string" }
+          "stride": { "type": "string" },
+          "kava": { "type": "string" },
+          "injective": { "type": "string" },
+          "evmos": { "type": "string" }
         },
         "maxProperties": 1,
         "minProperties": 1,
